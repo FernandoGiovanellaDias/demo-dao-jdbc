@@ -20,6 +20,8 @@ public class Program {
 		System.out.println(obj);
 		System.out.println(seller);
 		System.out.println();
+		
+		System.out.println("/--------------Teste 1 ----------------/");
 		System.out.println(seller2);
 		
 	}
